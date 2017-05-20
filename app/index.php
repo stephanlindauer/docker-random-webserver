@@ -1,4 +1,4 @@
 <?php
-echo "foobar";
+echo "foobar2";
 echo mt_rand();
 ?>
